@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taymerrr/static/css/main.e6c13ad2.css",
+    "main.js": "/taymerrr/static/js/main.c92e67a6.js",
+    "index.html": "/taymerrr/index.html",
+    "main.e6c13ad2.css.map": "/taymerrr/static/css/main.e6c13ad2.css.map",
+    "main.c92e67a6.js.map": "/taymerrr/static/js/main.c92e67a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c92e67a6.js"
+  ]
+}
